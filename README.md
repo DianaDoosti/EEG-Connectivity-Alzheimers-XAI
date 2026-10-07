@@ -16,7 +16,7 @@ Key design choices:
 
 This project uses the publicly available resting-state EEG dataset:
 
-Andreas Miltiadous, Katerina D. Tzimourta, Theodora Afrantou, Panagiotis Ioannidis, Nikolaos Grigoriadis, Dimitrios G. Tsalikakis, Pantelis Angelidis, Markos G. Tsipouras, Evripidis Glavas, Nikolaos Giannakeas, and Alexandros T. Tzallas (2024). A dataset of EEG recordings from: Alzheimer's disease, Frontotemporal dementia and Healthy subjects. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds004504.v1.0.8
+Miltiadous, A., Tzimourta, K. D., Afrantou, T., Ioannidis, P., Grigoriadis, N., Tsalikakis, D. G., Angelidis, P., Tsipouras, M. G., Glavas, E., Giannakeas, N., & Tzallas, A. T. (2024). *A dataset of EEG recordings from: Alzheimer's disease, Frontotemporal dementia and Healthy subjects*. OpenNeuro. [Dataset]. [doi:10.18112/openneuro.ds004504.v1.0.8](https://doi.org/10.18112/openneuro.ds004504.v1.0.8)
 
 - 19 scalp channels, EEGLAB `.set` files; the **preprocessed** version of the public dataset was used.
 - Subjects: AD = 1–36, CN = 37–65, FTD = 66–88.
